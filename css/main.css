@@ -8,6 +8,23 @@
     color: #525252;
 }
 
+/*  */
+.container{
+    max-width: 1400px;
+}
+
+
+
+/* Шапка */
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #fff;
+}
+
 
 /* Услуги */
 .services{
