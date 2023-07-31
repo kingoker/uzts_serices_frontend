@@ -11,7 +11,8 @@
 /*  */
 .container{
     max-width: 1400px;
-    margin: auto 30px;
+    margin: 0px auto;
+    padding: auto 30px;
 }
 .img{
     width: 100%;
