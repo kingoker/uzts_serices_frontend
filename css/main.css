@@ -395,3 +395,39 @@
 .subsidies__item:hover .subsidies__category{
     color: #fff;
 }
+
+
+
+
+
+/* О субсидиях */
+.aboutSubsidies{
+    margin: 70px auto;
+}
+.aboutSubsidies__container{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.aboutSubsidies__list{
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
+.aboutSubsidies__item{
+    display: block;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration: none;
+}
+.aboutSubsidies__item span{
+    color: #0697FF;
+    font-size: 26px;
+    line-height: 30px;
+}
+.aboutSubsidies__item:hover{
+    color: #0697FF;
+}
